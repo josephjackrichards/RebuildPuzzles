@@ -1,0 +1,120 @@
+
+body {
+    
+    background-color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fancy {
+    color:wheat
+}
+.classy {
+    color: gold ;
+}
+.getthesale {
+    color: mintcream;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+/* Some Possible Styles For Positioning
+body {
+background-image: url("../images/bg.jpg"); 
+}
+h1 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 4.5em;
+    text-align: center;
+}
+#nuggetheader {
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-bottom: 100px;
+    border: black 4px solid;
+    padding:10px;
+}
+a {
+    display: inline;
+}
+ul {
+    list-style-type:square;
+    list-style-image: url('./images/bullet_black_16.png');
+}
+
+.menu {
+    display: flex;
+    border: dashed 3px wheat;
+    background-color: rgb(41, 39, 39);
+    flex-direction: row;
+}
+
+.menu li{
+    text-align: center;
+    padding: 5px 5px;
+    height: 50px;
+    flex-grow: 3;
+    list-style: none;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.menu li a:hover {
+    font-size: 48px;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 50px;
+    gap: 40px;
+}
+
+.grid-item {
+background-color: bisque;
+border: solid 2px brown;
+text-align: center;
+border-radius: 25px;
+}
+
+.grid-item img {
+  width: 80%;
+}
+
+.item7 {
+    grid-column: 2;
+}
+
+.footer {
+  grid-row: 4;
+  grid-column: 1 / span 3;
+  color: darkgray;
+  margin: 0px;
+}
+
+#fingers {
+  width: 100%;
+}
+
+.truth {
+  background-color: rgb(230, 211, 187);
+  padding: 20px;
+  margin: 30px;
+  float: right;
+}
+
+.haiku {
+font-family: 'Amatic SC', cursive;
+font-size: 3em;
+text-align: center;
+}
+
+
+
+/* Some Possible Styles For Positioning
